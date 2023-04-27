@@ -1,0 +1,20 @@
+envelope
+envelope
+paper
+tissue
+paper towel
+newspaper
+magazine
+mail
+catalog
+receipt
+paper bag
+book
+cardboard
+carton
+egg carton
+milk carton
+binder
+cup
+packet
+book
